@@ -1,0 +1,12 @@
+[
+	{
+		"placeId"    : 7993075235,
+		"structType" : "literal",
+		"habitable"  : false
+	},
+	{
+		"placeId"    : -1,
+		"structType" : "literal",
+		"habitable"  : true
+	}
+]
